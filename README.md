@@ -1,3 +1,3 @@
 # js-game
 game creation with js
-project version v0.0.1
+version v 0.0.1
