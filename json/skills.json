@@ -1,0 +1,108 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "level": [
+        {
+          "up": 1,
+          "damage": 3,
+          "cooldown": 30
+        },
+        {
+          "up": 2,
+          "damage": 4,
+          "cooldown": 25
+        },
+        {
+          "up": 3,
+          "damage": 5,
+          "cooldown": 20
+        },
+        {
+          "up": 4,
+          "damage": 6,
+          "cooldown": 15
+        }
+      ],
+      "img": "img/skills/TheFire.png"
+    },
+    {
+      "id": 1,
+      "level": [
+        {
+          "up": 1,
+          "damage": 10,
+          "cooldown": 35
+        },
+        {
+          "up": 2,
+          "damage": 10,
+          "cooldown": 25
+        },
+        {
+          "up": 3,
+          "damage": 10,
+          "cooldown": 15
+        },
+        {
+          "up": 4,
+          "damage": 10,
+          "cooldown": 5
+        }
+      ],
+      "img": "img/skills/lightning.png"
+    },
+    {
+      "id": 2,
+      "level": [
+        {
+          "up": 1,
+          "damage": 10,
+          "cooldown": 35
+        },
+        {
+          "up": 2,
+          "damage": 10,
+          "cooldown": 25
+        },
+        {
+          "up": 3,
+          "damage": 10,
+          "cooldown": 15
+        },
+        {
+          "up": 4,
+          "damage": 10,
+          "cooldown": 5
+        }
+      ],
+      "img": "img/skills/lightning.png"
+    },
+    {
+      "id": 3,
+      "level": [
+        {
+          "up": 1,
+          "damage": 10,
+          "cooldown": 35
+        },
+        {
+          "up": 2,
+          "damage": 10,
+          "cooldown": 25
+        },
+        {
+          "up": 3,
+          "damage": 10,
+          "cooldown": 15
+        },
+        {
+          "up": 4,
+          "damage": 10,
+          "cooldown": 5
+        }
+      ],
+      "img": "img/skills/lightning.png"
+    }
+  ]
+}

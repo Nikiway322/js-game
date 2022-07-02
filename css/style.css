@@ -1,0 +1,95 @@
+html, body{
+	width: 100%;
+	height: 100%;
+}
+*{
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	user-select: none;
+}
+#upMenu{
+	width: 100%;
+    height: 50px;
+    background: rgba(0,0,0,0);
+    position: absolute;
+}
+#timer{
+	
+}
+#HPHERO{
+	height: 25px;
+	width: 100%;
+
+}
+#HP{
+	width: 100%;
+	z-index: 10;
+	font-size: 23px;
+	position: absolute;
+	text-align: center;
+
+}
+
+#colorHP{
+	position: absolute;
+	height: 25px;
+	width: 100%;
+	background: #ff000087;
+	z-index: 1;
+}
+canvas{
+	background: #ccfcff;
+}
+
+/*Конец игры*/
+.GameOver{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	z-index: 100;
+	background: rgba(0,0,0,0);
+}
+.nameGG{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+   	color: red;
+}
+
+#gg{
+    font-size: 0px;
+}
+
+/*Нижняя панель*/
+.fon{
+	top: calc(100% - 146px);
+	width: 100%;
+	height: 146px;
+	background: url('../img/zemlay.png') 100px 100%/cover;
+	position: absolute;
+}
+
+.skills{
+	/*background: ;*/
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+}
+.panel{
+	width: 400px;
+	height: 70px;
+	display: flex;
+	justify-content: space-around;
+}
+.footSkill{
+	background: #ffffff8c;
+    border: 1px solid #000;
+    border-radius: 15px;
+}

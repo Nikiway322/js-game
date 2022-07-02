@@ -1,0 +1,28 @@
+{
+  "enemy": [
+    {
+      "id": 1,
+      "attack": 5,
+      "hp": 7.5,
+      "speed": 1,
+      "distanceAttack" : 50,
+      "img": "img/sprite/enemy.png"
+    },
+    {
+      "id": 2,
+      "attack": 3,
+      "hp": 15,
+      "speed": 3,
+      "distanceAttack" : 10,
+      "img": "img/sprite/enemy.png"
+    },
+    {
+      "id": 3,
+      "attack": 3,
+      "hp": 25,
+      "speed": 4,
+      "distanceAttack" : 10,
+      "img": "img/sprite/hero.png"
+    }
+  ]
+}
